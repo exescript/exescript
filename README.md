@@ -1,6 +1,5 @@
 ### Hello!
 
-I am system software engineer from Russia.
-My repository doesn't contain any interesting code, there are some little projects "for me", nothing serious.
+I am system software engineer from Russia interested in cybersecurity, embedded platforms and Linux kernel engineering.
 
 Contact email: exescript@gmail.com
